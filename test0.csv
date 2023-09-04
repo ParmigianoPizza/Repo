@@ -1,0 +1,68 @@
+Keyword;;;Catégorie;Sous-catégorie
+pcb shop;;;concurrent;concurrent
+pcb pools;;;Industries;aerospace
+multi leiterplatten;;;Industries;assembly
+pcb;;;Industries;automotive
+pcb pool;;;Industries;consumer electronic
+pcb-pool;;;Industries;industry
+pcb s19 hp 15 hd 13;;;Industries;iot
+leiterplatten pool;;;Industries;light
+pcb pool leiterplatten;;;Industries;medical
+junkers leiterplatte 87483003460;;;Industries;metering
+junkers leiterplatte zwr 18-5;;;Industries;multimedia
+leiterplatte 3280w221a;;;Industries;pcb sensor
+leiterplatte junkers gastherme;;;Industries;power
+leiterplatte vr 20;;;Industries;telecom
+siedle hts 711 01 leiterplatte;;;Industries;train
+siedle leiterplatte hts 711 01;;;PCB;aluminium
+siemens leiterplatten;;;PCB;aluminum
+vaillant leiterplatte 0020092478;;;PCB;cutting/solder
+vaillant leiterplatte 0020153826;;;PCB;density pcb
+vaillant leiterplatte 13 0826;;;PCB;flex
+vaillant leiterplatte 130313;;;PCB;hdi
+vaillant leiterplatte 130809;;;PCB;heavy copper
+vaillant leiterplatte 130819;;;PCB;ims board
+vaillant leiterplatte 130826;;;PCB;light
+vaillant leiterplatte vc 196 3 5;;;PCB;material
+vaillant leiterplatte vc de 126 3 5;;;PCB;micro via
+vaillant leiterplatte vsc 196;;;PCB;microvia
+vaillant vc 196 2 c leiterplatte;;;PCB;microwave
+vaillant vsc 196 c 150 leiterplatte;;;PCB;multilayer
+viessmann eurola leiterplatte vr 18;;;PCB;Other
+viessmann leiterplatte;;;PCB;pcb sensor
+viessmann leiterplatte lgm29;;;PCB;rf
+viessmann leiterplatte optolink;;;PCB;rigid flex
+viessmann leiterplatte vr 20;;;PCB;semi flex
+viessmann vitodens 200 leiterplatte;;;PCB;single double sided
+viessmann vitodens 300 leiterplatte;;;PCB;substrate
+vitodens 200 leiterplatte lgm29;;;PCB;surface pcb
+vaillant leiterplatte schaltplan;;;PCB;via filling
+würth leiterplatten design rules;;;PCB manufacturer;manufacturer
+ggp leiterplatten;;;Science of PCB;impedance control
+göttle leiterplatten;;;Science of PCB;manufacturing
+greule leiterplatten;;;Science of PCB;process
+rogers pcb;;;Science of PCB;thermal management
+hm-sen-db-pcb;;;Services;design
+hm lc sw1 ba pcb;;;Services;engineering
+hm sen db pcb;;;Services;laboratory
+hmip-mio16-pcb;;;Services;production
+hm-lc-sw4-ba-pcb;;;Services;prototyping
+hm-lc-sw4-pcb;;;Services;quality
+;;;Services;sourcing
+;;;Services;supplier
+;;;Services;supply chain
+;;;Technical parts;adapter
+;;;Technical parts;battery
+;;;Technical parts;cables
+;;;Technical parts;coil
+;;;Technical parts;connector
+;;;Technical parts;display
+;;;Technical parts;keyboard
+;;;Technical parts;keypad
+;;;Technical parts;metal
+;;;Technical parts;pcb sensor
+;;;Technical parts;plastic
+;;;Technical parts;remote
+;;;Technical parts;silicone
+;;;Technical parts;transformer
+;;;Technical parts;Others
